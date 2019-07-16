@@ -16147,6 +16147,10 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
   background: -webkit-linear-gradient(135deg, rgba(47, 69, 142, 0.88) 0%, rgba(47, 75, 170, 0.45) 100%);
 }
 
+.purple_title{
+  color: #9c27b0;
+}
+
 footer {
   padding: 0.9375rem 0;
   text-align: center;
